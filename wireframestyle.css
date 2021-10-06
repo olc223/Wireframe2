@@ -2,8 +2,7 @@
     display: grid;
     grid-auto-columns: 1fr;
     grid-template-rows: 1fr;
-    gap: 8px 8px;
-    grid-auto-flow: row;
+    gap: 7px 7px;
     grid-template-areas:
       "div1 div1 div2 div2 div3 div3";
     font-family: monospace;
